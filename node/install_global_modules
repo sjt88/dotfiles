@@ -1,0 +1,2 @@
+# Installs global modules
+alias npm-install-myglobalmodules="npm i -g pm2 standard yo gulp bower"
