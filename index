@@ -1,0 +1,3 @@
+[ -f ~/dotfiles/docker/aliases ] && source ~/dotfiles/docker/aliases
+[ -f ~/dotfiles/git/aliases ] && source ~/dotfiles/git/aliases
+[ -f ~/dotfiles/other/fastrate ] && source ~/dotfiles/other/fastrate
