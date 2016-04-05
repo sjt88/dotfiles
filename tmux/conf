@@ -1,0 +1,7 @@
+####
+# Config written by simons dotfiles install.sh script
+
+set-window-option -g xterm-keys on
+
+#
+####
