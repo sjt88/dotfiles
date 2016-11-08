@@ -1,7 +1,8 @@
-####
-# Config written by simons dotfiles install.sh script
-
+# ctrl + arrow to skip word
 set-window-option -g xterm-keys on
 
-#
-####
+# switch panes with alt+cmd+<direction>
+bind -n M-Left select-pane -L
+bind -n M-Right select-pane -R
+bind -n M-Up select-pane -U
+bind -n M-Down select-pane -D
